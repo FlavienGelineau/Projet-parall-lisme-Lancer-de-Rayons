@@ -1,1 +1,1 @@
-# Projet-parall-lisme-Lancer-de-Rayons
+# Raytracing project
